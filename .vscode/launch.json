@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+        
+        {
+            "type": "node",
+            "request": "attach",
+            "name": "Attach",
+            "port": 9229
+        },
+<<<<<<< Updated upstream
+=======
+>>>>>>> 4a59e1e01ce4c4d3abd0dc1c016dadd40d1309de
+>>>>>>> Stashed changes
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program",
+<<<<<<< Updated upstream
+            "program": "${workspaceFolder}\\Day05\\script.js"
+=======
+<<<<<<< HEAD
+            "program": "${file}"
+=======
+            "program": "${workspaceFolder}\\Day05\\script.js"
+>>>>>>> 4a59e1e01ce4c4d3abd0dc1c016dadd40d1309de
+>>>>>>> Stashed changes
+        }
+    ]
+}
